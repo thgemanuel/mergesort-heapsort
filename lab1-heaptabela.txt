@@ -1,0 +1,116 @@
+ 10 elementos = 0.000001 segundos
+ 
+20 elementos = 0.000001 segundos
+ 
+40 elementos = 0.000002 segundos
+ 
+80 elementos = 0.000004 segundos
+ 
+160 elementos = 0.000008 segundos
+ 
+320 elementos = 0.000018 segundos
+ 
+640 elementos = 0.000038 segundos
+ 
+1280 elementos = 0.000082 segundos
+ 
+2560 elementos = 0.000176 segundos
+ 
+5120 elementos = 0.000379 segundos
+ 
+10240 elementos = 0.000818 segundos
+ 
+20480 elementos = 0.001813 segundos
+ 
+40960 elementos = 0.003181 segundos
+ 
+81920 elementos = 0.006845 segundos
+ 
+163840 elementos = 0.014551 segundos
+ 
+327680 elementos = 0.031517 segundos
+ 
+655360 elementos = 0.069282 segundos
+ 
+1310720 elementos = 0.152195 segundos
+ 
+2621440 elementos = 0.369074 segundos
+ 
+5242880 elementos = 0.836048 segundos
+ 
+10485760 elementos = 2.210076 segundos
+ 
+20971520 elementos = 4.911016 segundos
+ 
+41943040 elementos = 10.791628 segundos
+ 
+83886080 elementos = 25.075090 segundos
+ 
+167772160 elementos = 53.781858 segundos
+ 
+335544320 elementos = 118.230318 segundos
+
+
+
+
+
+
+
+
+
+///// MERGE
+ 
+10 elementos = 0.000002 segundos
+ 
+20 elementos = 0.000005 segundos
+ 
+40 elementos = 0.000008 segundos
+ 
+80 elementos = 0.000016 segundos
+ 
+160 elementos = 0.000031 segundos
+ 
+320 elementos = 0.000067 segundos
+ 
+640 elementos = 0.000141 segundos
+ 
+1280 elementos = 0.000310 segundos
+ 
+2560 elementos = 0.000668 segundos
+ 
+5120 elementos = 0.001443 segundos
+ 
+10240 elementos = 0.000813 segundos
+ 
+20480 elementos = 0.001258 segundos
+ 
+40960 elementos = 0.002694 segundos
+ 
+81920 elementos = 0.006055 segundos
+ 
+163840 elementos = 0.012223 segundos
+
+327680 elementos = 0.025424 segundos
+ 
+655360 elementos = 0.053308 segundos
+ 
+1310720 elementos = 0.111334 segundos
+ 
+2621440 elementos = 0.232450 segundos
+ 
+5242880 elementos = 0.490090 segundos
+ 
+10485760 elementos = 1.018367 segundos
+ 
+20971520 elementos = 2.173764 segundos
+ 
+41943040 elementos = 4.436050 segundos
+ 
+83886080 elementos = 9.256506 segundos
+ 
+167772160 elementos = 19.169308 segundos
+ 
+335544320 elementos = 39.880480 segundos
+ 
+671088640 elementos = 111.874418 segundos
+
